@@ -1,12 +1,17 @@
-Create a Basic set of APIs that simulates teams and matches in a “**Mock Premier League**”
+# JS Mock ECommerce Platoform
+
+Create a Basic set of APIs that an “**E Commerce Platform**”
+
 
 - **Admin accounts** which are used to
   - Signup/login
-  - Manage teams (add, remove, edit, view)
-  - Manage fixtures (add, remove, edit, view)
+  - Manage Categories (add, remove, edit, view)
+  - Manage Products (add, remove, edit, view) *Note that all products should have at least one category
+
 - **Users** who can
-  - View teams
-  - View fixtures
+  - Login and Register
+  - View Products and Categories
+  - Simulate Purchase (This isnt compulsory)
 
 ## Authentication and Session Management
 
@@ -15,7 +20,7 @@ Create a Basic set of APIs that simulates teams and matches in a “**Mock Premi
 ## Tools/Stack
 
 - Either of NodeJS
-- Any Database of your choice (Mongo DB is preffered)
+- Any Database of your choice (Mongo DB is preferred)
 
 ## Submission
 
@@ -23,6 +28,14 @@ Create a Basic set of APIs that simulates teams and matches in a “**Mock Premi
 2. Seed the Database with lots of data before final submission.
 3. Code should be hosted on a git repository, Github preferably.
 4. The API should be hosted on a live server (e.g. https://heroku.com)
+
+**What we'll be looking out for:**
+
+- Component architecture
+- Clean code
+- Data modelling
+- Proper use of Javascript data structures
+- Validation
 
 _As a bonus:_
 
