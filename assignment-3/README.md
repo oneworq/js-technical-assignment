@@ -2,6 +2,7 @@
 
 Create a Basic set of APIs that an “**E Commerce Platform**”
 
+For this exercise, you will be creating an Ecommerce Platform that  has the following capabilities
 
 - **Admin accounts** which are used to
   - Signup/login
@@ -40,6 +41,5 @@ Create a Basic set of APIs that an “**E Commerce Platform**”
 _As a bonus:_
 
 You'll get bonus points for:
-
 1. Pagination
 2. Proper sorting and filtering
