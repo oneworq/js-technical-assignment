@@ -1,10 +1,8 @@
 # JS Mock ECommerce Platoform
 
-Create a Basic set of APIs that an “**E Commerce Platform**”
+Create a Basic set of APIs that simulates an “**E Commerce Platform**”, For this exercise, the APIs must have the following functionalities 
 
-For this exercise, you will be creating an Ecommerce Platform that  has the following capabilities
-
-- **Admin accounts** which are used to
+- **Admin accounts** 
   - Signup/login
   - Manage Categories (add, remove, edit, view)
   - Manage Products (add, remove, edit, view) *Note that all products should have at least one category
@@ -12,7 +10,6 @@ For this exercise, you will be creating an Ecommerce Platform that  has the foll
 - **Users** who can
   - Login and Register
   - View Products and Categories
-  - Simulate Purchase (This isnt compulsory)
 
 ## Authentication and Session Management
 
@@ -43,3 +40,4 @@ _As a bonus:_
 You'll get bonus points for:
 1. Pagination
 2. Proper sorting and filtering
+3. Simulating purchase
