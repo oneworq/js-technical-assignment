@@ -1,4 +1,4 @@
-## Lawyer Dashboard
+# Lawyer Dashboard
 
 As a LegalTech company, we are always looking for ways to make life easier for our lawyers. To do this, we must ensure lawyers have access to relevant information at their fingertips to enable them to work efficiently.
 
