@@ -2,7 +2,7 @@
 
 At mylawlegal, we are constantly thinking of new ways to meet the needs of our customers by adjusting our product offerings accordingly. Depending on the service being offered, we may need to collect different types of information from the user to enable the lawyers properly assess the case and treat accordingly. As such, it is vital as a technology team to be able to do this in a fast an effective manner while reusing code as much as possible.
 
-For this exercise, you will be creating an component that is able to generate a form from a JS data structure. For now, we only intend to collect text input, long text input, numeric data and dates.
+For this exercise, you will be creating an component that is able to generate a form from a JS data structure. For now, we only intend to collect **text input**, **long text input**, **numeric data** and **dates**.
 
 As an example of how we may use this component is shown below:
 
@@ -54,6 +54,9 @@ Feel free to modify the data structure provided as much as possible to suit your
 
 _As a bonus:_
 
-You may add validation to the rendered form such that validation rules can be embedded in the JS object.
+- You may add validation to the rendered form such that validation rules can be embedded in the JS object and your component can work based on these validation rules.
+- Add a few more field types e.g.
+  - Radio option (one choice from a set of radio buttons)
+  - Select (one choice from a dropdown list of options),
 
 You may make use of any Javascript Frameworks/Libraries of your choice - Vue.js, React or Angular.js.
