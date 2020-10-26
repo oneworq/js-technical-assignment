@@ -1,6 +1,6 @@
 # Internship JS Technical Assessment
 
-For this assessment, you will be expected to attempt one of the challenges linked below:
+For this assessment, you will be expected to attempt **ONE** of the challenges linked below:
 
 - [Assignment 1 - Lawyer Dashboard](./assignment-1/README.md)
 - [Assignment 2 - JS Form Generator Component](./assignment-2/README.md)
