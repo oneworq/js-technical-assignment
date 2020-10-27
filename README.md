@@ -8,4 +8,4 @@ For this assessment, you will be expected to attempt **ONE** of the challenges l
 
 Your solution should be available (and accessible) on a git repository as well as hosted on a service provider of choice (Github pages will probably suffice for the frontend challenges).
 
-Send your submission within 72 hours to tech@mylaw.ng.
+Send your submission within 72 hours to info@mylaw.ng.
