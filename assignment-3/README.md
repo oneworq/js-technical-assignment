@@ -1,6 +1,6 @@
-# JS Mock ECommerce Platoform
+# Python Mock ECommerce Platoform
 
-Create a Basic set of APIs that simulates an “**E Commerce Platform**”, For this exercise, the APIs must have the following functionalities 
+Create a Basic set of APIs that simulates an “**E Commerce Platform**”, For this exercise, the APIs should have the following functionalities 
 
 - **Admin accounts** 
   - Signup/login
@@ -17,8 +17,8 @@ Create a Basic set of APIs that simulates an “**E Commerce Platform**”, For 
 
 ## Tools/Stack
 
-- Either of NodeJS
-- Any Database of your choice (Mongo DB is preferred)
+- Python/Flask
+- Postgress SQL
 
 ## Submission
 
@@ -32,12 +32,13 @@ Create a Basic set of APIs that simulates an “**E Commerce Platform**”, For 
 - Component architecture
 - Clean code
 - Data modelling
-- Proper use of Javascript data structures
+- Proper use of data structures
 - Validation
 
 _As a bonus:_
 
 You'll get bonus points for:
-1. Pagination
-2. Proper sorting and filtering
-3. Simulating purchase
+1. Use of GraphQL
+2. Pagination
+3. Proper sorting and filtering
+4. Simulating purchase
